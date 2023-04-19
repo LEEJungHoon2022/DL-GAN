@@ -22,7 +22,9 @@
 
 ## 기존 이미지에 다른 이미지의 스타일을 합성한 이미지
 ![style_mix_69000](https://user-images.githubusercontent.com/104478563/232967657-d77fe601-56cc-448a-a4b3-4f71d2ba1afb.jpg)
+
 ![style_mix_69450](https://user-images.githubusercontent.com/104478563/232967677-69332874-0b06-4458-8844-d86ced1c208e.jpg)
+
 ![style_mix_69900](https://user-images.githubusercontent.com/104478563/232967685-44cb0967-2bf2-42e1-beec-66a0d41c208b.jpg)
 ![style_mix_69550](https://user-images.githubusercontent.com/104478563/232967689-4ae7a150-2390-4b5f-b312-ccc84b89e274.jpg)
 ![style_mix_69600](https://user-images.githubusercontent.com/104478563/232967692-37dbd91b-5392-4f5c-87a5-17a043171e54.jpg)
