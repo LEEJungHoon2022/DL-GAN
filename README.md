@@ -7,4 +7,4 @@
 
 ## Model 훈련 환경 : ubuntu(18.04), vscode,  python, pytorch, cuda 11.3 
 ## 사용한 데이터 : Impressionist_Classifier_Data(https://www.kaggle.com/datasets/delayedkarma/impressionist-classifier-data)
-## 훈련 시간 : 약 3일
+## 훈련 시간 : 약 3일(72시간 이상)
