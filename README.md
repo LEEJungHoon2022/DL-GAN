@@ -10,8 +10,7 @@
 ## 훈련 시간 : 약 3일(72시간 이상)
 
 ## 훈련 후 생성한 이미지
-![0](https://user-images.githubusercontent.com/104478563/232967325-3bc8e5f3-57c3-4cba-9e73-66b4ac6e94d3.png)
-![0](https://user-images.githubusercontent.com/104478563/232967430-a4c4709d-bb82-4d36-8ff2-b322a9b3482d.png)
+![0](https://user-images.githubusercontent.com/104478563/232967325-3bc8e5f3-57c3-4cba-9e73-66b4ac6e94d3.png)![0](https://user-images.githubusercontent.com/104478563/232967430-a4c4709d-bb82-4d36-8ff2-b322a9b3482d.png)
 ![19](https://user-images.githubusercontent.com/104478563/232967448-6af1dd4d-b527-4475-9eb1-04b0f396ac15.png)
 ![40](https://user-images.githubusercontent.com/104478563/232967464-9c23885d-0138-4547-ba10-8c021557006d.png)
 ![36](https://user-images.githubusercontent.com/104478563/232967468-76e403d6-c758-44b2-8729-b0a106f8b039.png)
